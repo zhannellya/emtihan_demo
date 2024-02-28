@@ -76,4 +76,3 @@ Widget textBuild() {
     ),
   );
 }
- add in this code hive please with this requirements,give me the full code

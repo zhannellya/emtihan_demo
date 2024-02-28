@@ -61,7 +61,7 @@ Widget textBuild() {
                     ),
                   ),
                   Text(
-                    'This year, 61 international skill competitions will take place across Europe, North America This year, 61 international skill competitions will take place across Europe, North America This year, 61 international skill competitions will take place across Europe, North AmericaThis year, 61 international skill competitions will take place across Europe, North AmericaThis year, 61 international skill competitions will take place across Europe, North AmericaThis year, 61 international skill competitions will take place across Europe, North AmericaThis year, 61 international skill competitions will take place across Europe, North America',
+                    'This year, 61 international skill competitions will take place across Europe, North America This year, 61 international skill competitions will take place across Europe, North America This year, 61 international skill competitions will take place across Europe, North AmericaThis year, 61 international skill competitions will take place across Europe, North AmericaThis year, 61 international skill competitions will take place across Europe, North America',
                     style: TextStyle(
                       fontSize: 11,
                     ),
@@ -78,4 +78,3 @@ Widget textBuild() {
     ),
   );
 }
-// add in this code hive please with this requirements,give me the full code
